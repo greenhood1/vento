@@ -271,3 +271,20 @@ body {
     padding-bottom: 55px;
     text-align: center;
 }
+/* Default styles for all devices */
+/* Add styles here that apply to all screen sizes */
+
+/* Media query for smartphones */
+@media only screen and (max-width: 600px) {
+    /* Add styles here for smartphones */
+}
+
+/* Media query for tablets */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Add styles here for tablets */
+}
+
+/* Media query for desktops */
+@media only screen and (min-width: 1025px) {
+    /* Add styles here for desktops */
+}
